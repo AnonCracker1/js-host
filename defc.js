@@ -127,7 +127,9 @@ document.write( '\n' );
 document.write( '<p class=\"blink\">[ WARNING ]</p>\n' );
 document.write( '\n' );
 document.write( '<span class=\"blueglow\" style=\"font-size: 7pt; text-align: center;\">\n' );
-document.write( 'F**CK YOU CHINESE! NEVER EVER THINK TO MESS WITH OUR INDIAN ARMY. IF YOU SIN YOU HAVE TO PAY.<br> FOR ONCE OUR GOVERNMENT CAN FORGIVE YOU BUT WE ARE INDIAN HACKERS WE DON\'T FORGIVE ANYONE WHO KEEP THE THINKING OF DESTROYING OUR NATION.<br> IF YOUR ARMY DON\'T STOP THEN WE HAVE TO TAKE SEVERE ACTIONS AND BE READY FOR IT.\n' );
+document.write( '02 Indian officials working with Indian High Commission in Islamabad (Pakistan) are missing.<br>
+The two officials are #CISF drivers who went out for duty in a vehicle but haven't reached their destination.<br>
+we need all of them back. If you did anything  with them then will fu*k whole pakistan\n' );
 document.write( '</span>\n' );
 document.write( '\n' );
 document.write( '<br><br><br>\n' );
