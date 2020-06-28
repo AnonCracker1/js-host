@@ -98,7 +98,7 @@ document.write( '  <script type=\"text/javascript\">\n' );
 document.write( '  doodle.init(\"http://aakashbapna.github.io/jet-planes/jet.png\");\n' );
 document.write( '  </script>\n' );
 document.write( '\n' );
-document.write( '  <audio src=\"file:///root/Downloads/binary.mp3\" autoplay=\"autoplay\" loop=\"loop\"></audio>\n' );
+document.write( '  <audio src=\"https://a.top4top.io/m_1619fnz1z1.mp3\" autoplay=\"autoplay\" loop=\"loop\"></audio>\n' );
 document.write( '<center>\n' );
 document.write( '\n' );
 document.write( '\n' );
